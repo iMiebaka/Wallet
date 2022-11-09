@@ -66,7 +66,7 @@ class CoinsPage extends StatelessWidget {
                     ),
                   ),
                   const Text(
-                    '10,000,00.00 USD',
+                    '\$10,000,00.00',
                     style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
                   ),
                 ],
