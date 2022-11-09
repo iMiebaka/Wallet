@@ -16,19 +16,19 @@ class IconDisplay extends StatelessWidget {
     return Column(
       children: [
         Container(
-            padding: EdgeInsets.all(15),
+            padding: const EdgeInsets.all(15),
             decoration: BoxDecoration(
                 color: Colors.blue, borderRadius: BorderRadius.circular(100)),
             child: Icon(
               icon,
               color: iconColor,
             )),
-        SizedBox(
+        const SizedBox(
           height: 8,
         ),
         Text(
           title,
-          style: TextStyle(color: Colors.grey, fontSize: 15),
+          style: const TextStyle(color: Colors.grey, fontSize: 15),
         ),
       ],
     );
