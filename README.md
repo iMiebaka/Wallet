@@ -1,5 +1,5 @@
-# Wallet
-Wallet is a mobile app for crypto trading. The mock-up was done using flutter.
+# Transferwise
+Transferwise is a Wallet mobile app for crypto trading. The mock-up was done using flutter.
 
 
 ### Flutter fintech App.
